@@ -1,5 +1,5 @@
-Copyright (c) 2022 RISHIKESHAN 🌱 <oss@rishikeshan.com>
-பதிப்புரிமை (c) 2022 ரிஷிகேசன் 🌱 <oss@rishikeshan.com>
+Copyright (c) 2022 RISHIKESHAN SULOCHANA/LAVAKUMAR 🌱 <oss@rishikeshan.com>
+பதிப்புரிமை (c) 2022 ரிஷிகேசன் சுலோச்சனா/லவக்குமார் 🌱 <oss@rishikeshan.com>
 This software is dual-licensed under 
 (1) the MIT license or,
 (2) the Apache License version 2.0.
